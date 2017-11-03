@@ -1,0 +1,9 @@
+ body {
+    background: #000000;
+}
+h1 {
+    text-align: center;
+}
+.page-title-link {
+    fill: rgb(179, 170, 78);
+}
